@@ -5,13 +5,13 @@
 <article>
   <header>
     <h1>Marina Paiolla Forastiere</h1>
-    <h4>Designer, 31/07/2000</h4>
+    <h4>Designer, estudante do curso de Desenvolvimento Web da Coderhouse</h4>
   </header>
- 
- 
+
+
   <section>
-  
-  <h2>Receita</h2>  
+
+  <h2>Receita</h2>
   <h3>Ingredientes</h3>
   <ul>
   <li>2 xícaras (chá) de açúcar</li>
@@ -21,7 +21,7 @@
   <li>1 e 1/2 xícara (chá) de leite</li>
   <li>1 colher (sopa) bem cheia de fermento em pó</li>
   </ul>
-  
+
   <h3>Como fazer</h3>
   <ol>
   <li>Bata as claras em neve e reserve.</li>
@@ -31,11 +31,11 @@
   <li>Despeje a massa em uma forma grande de furo central untada e enfarinhada.</li>
   <li>Asse em forno médio 180 °C, preaquecido, por aproximadamente 40 minutos ou ao furar o bolo com um garfo, este saia limpo.</li>
   </ol>
-  
+
   </section>
-  
+
   <section>
-  
+
   <h2>Tabela</h2>
   <table border>
     <th>Produto</th>
@@ -66,23 +66,23 @@
   </section>
 
   <article>
-  
+
     <h2>Notícia</h2>
-    
+
 	<h3>Justiça de São Paulo decreta falência da Livraria Cultura</h3>
-    
+
        <img src="https://s2.glbimg.com/r7w58tWpY5KlMtD_hgl7v7ahRoQ=/0x0:2048x1152/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/5/A/PTfgBZTcWQgIlV50adGQ/cultura-2.jpg" style="width:600px;height:300px;" alt="Imagem Livraria Cultura">
-    
-	<p>A Justiça de São Paulo decretou, nesta quinta-feira (9), a falência da Livraria Cultura, uma das redes mais tradicionais do país. A decisão foi tomada mais de quatro anos após a 2ª Vara de Falências e Recuperações Judiciais do Foro Central Cível aceitar o pedido de recuperação judicial da companhia.</p>    
+
+	<p>A Justiça de São Paulo decretou, nesta quinta-feira (9), a falência da Livraria Cultura, uma das redes mais tradicionais do país. A decisão foi tomada mais de quatro anos após a 2ª Vara de Falências e Recuperações Judiciais do Foro Central Cível aceitar o pedido de recuperação judicial da companhia.</p>
     <p><a href="https://g1.globo.com/economia/noticia/2023/02/09/livraria-cultura-tem-falencia-decretada-pela-justica-de-sao-paulo.ghtml">Leia mais</a></p>
-    
+
   </article>
 
 <footer>
   <p>Autor: Marina Paiolla Forastiere</p>
   <p><a href="mailto:maripaiolla@gmail.com">maripaiolla@gmail.com</a></p>
 </footer>
-  
+
 </article>
 
 </body>
